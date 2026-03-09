@@ -318,6 +318,10 @@ These skills are compatible with any agent that supports the Agent Skills format
 | Windsurf | ✅ Fully supported |
 | Goose | ✅ Fully supported |
 
-## License
+## ☕ Support this project
 
-MIT
+If you like this project, you can buy me a coffee.
+
+<a href="https://buymeacoffee.com/dobadat111c" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
+</a>
